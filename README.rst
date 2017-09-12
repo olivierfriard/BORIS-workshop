@@ -89,14 +89,22 @@ BORIS: Hands on # 1 (Geese)
 Setting the ethogram
 ......................
 
+
+
 Setting the subjects
 ......................
+
+
 
 Start an observation
 ......................
 
+
+
 Analyzing behaviors
 .....................
+
+
 
 Visualizing behaviors
 ......................
