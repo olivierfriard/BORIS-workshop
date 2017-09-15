@@ -164,6 +164,15 @@ The observation will be made on 2 subjects. The sujects are annotated on the vid
 Start an observation
 ......................
 
+* **Observations** > **New observation**
+
+* It is mandatory to choose an unique observation id
+
+* Load the video into the media player
+
+* Press the **Start** button to launch the observation
+
+
 
 Analyzing behaviors
 .....................
