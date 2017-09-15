@@ -86,7 +86,9 @@ BORIS: Hands on # 1 (Geese)
 -----------------------------
 
 
-Download the video geese1.mp4 https://github.com/olivierfriard/BORIS_UZI_Workshop_2017/blob/master/video/geese1.mp4
+Download the video geese1.mp4:
+
+* https://github.com/olivierfriard/BORIS_UZI_Workshop_2017/blob/master/video/geese1.mp4
 
 
 Setting the ethogram
