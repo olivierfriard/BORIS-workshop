@@ -102,7 +102,7 @@ Two state events can be defined: **head up** and **head down**
 * Define a second behavior with code **head down** as **State event** . Assign the **D** key to this behavior
 
 
-Set the **Exclusion matrix** in order to have mutually exclusive behaviors (Use the **Exclusion matrix** button from the Ethogram tab)
+* Set the **Exclusion matrix** in order to have mutually exclusive behaviors (Use the **Exclusion matrix** button from the Ethogram tab)
 
 
 
