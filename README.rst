@@ -131,6 +131,11 @@ Analyzing behaviors
 Visualizing behaviors
 ......................
 
+* **Tools** >  **Plot events**
+
+
+
+
 
 
 BORIS: Hands on # 2 (Monkey)
@@ -149,6 +154,11 @@ Setting the subjects
 ......................
 
 The observation will be made on 2 subjects. The sujects are annotated on the video with labels (1 and 2).
+
+* Define a first subject and assing it the **1** key
+
+* Define a second subject and assing the **2** key
+
 
 
 Start an observation
