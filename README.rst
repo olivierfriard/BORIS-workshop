@@ -98,7 +98,7 @@ Setting the ethogram
 Two state events can be defined: **head up** and **head down**
 
 
-Set the **Exclusion matrix** in order to have mutually exclusive behaviors (Use ""Exclusion matrix** button from the Ethogram tab)
+Set the **Exclusion matrix** in order to have mutually exclusive behaviors (Use the **Exclusion matrix** button from the Ethogram tab)
 
 
 
