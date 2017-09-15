@@ -82,6 +82,7 @@ Sound spectrogram
 
 
 
+
 BORIS: Hands on # 1 (Geese)
 -----------------------------
 
@@ -119,6 +120,10 @@ Visualizing behaviors
 
 BORIS: Hands on # 2 (Monkey)
 -----------------------------
+
+Download the video **gelada1_annotations.mp4**:
+
+* https://github.com/olivierfriard/BORIS_UZI_Workshop_2017/blob/master/video/geese1.mp4
 
 
 Setting the ethogram
