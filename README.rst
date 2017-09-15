@@ -146,6 +146,11 @@ Exporting events
 BORIS: Hands on # 3 (Song)
 -----------------------------
 
+Download the video indri.avi:
+
+* https://github.com/olivierfriard/BORIS_UZI_Workshop_2017/blob/master/video/indri.avi
+
+
 
 Setting the ethogram
 ......................
@@ -157,6 +162,8 @@ Start an observation
 
 Spectrogram visualization
 ..........................
+
+Tools > Show spectrogram
 
 
 Analyzing behaviors
