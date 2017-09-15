@@ -98,8 +98,7 @@ Setting the ethogram
 Two state events can be defined: **head up** and **head down**
 
 
-Setting the subjects
-......................
+Set the **Exclusion matrix** in order to have mutually exclusive behaviors (Use ""Exclusion matrix** button from the Ethogram tab)
 
 
 
@@ -123,10 +122,15 @@ BORIS: Hands on # 2 (Monkey)
 
 Download the video **gelada1_annotations.mp4**:
 
-* https://github.com/olivierfriard/BORIS_UZI_Workshop_2017/blob/master/video/geese1.mp4
+* https://github.com/olivierfriard/BORIS_UZI_Workshop_2017/blob/master/video/gelada1_annotations.mp4
+
 
 
 Setting the ethogram
+......................
+
+
+Setting the subjects
 ......................
 
 
