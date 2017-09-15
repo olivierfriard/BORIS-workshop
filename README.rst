@@ -107,6 +107,15 @@ Start an observation
 
 
 
+* **Observations** > **New observation**
+
+* It is mandatory to choose an unique observation id
+
+* Load the video into the media player
+
+* Press the **Start** button to launch the observation
+
+
 Analyzing behaviors
 .....................
 
@@ -125,13 +134,14 @@ Download the video **gelada1_annotations.mp4**:
 * https://github.com/olivierfriard/BORIS_UZI_Workshop_2017/blob/master/video/gelada1_annotations.mp4
 
 
-
 Setting the ethogram
 ......................
 
 
 Setting the subjects
 ......................
+
+The observation will be made on 2 subjects. The sujects are annotated on the video with labels (1 and 2).
 
 
 Start an observation
