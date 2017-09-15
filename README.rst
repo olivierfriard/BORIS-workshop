@@ -94,6 +94,7 @@ Download the video geese1.mp4:
 Setting the ethogram
 ......................
 
+Two state events can be defined: **head up** and **head down**
 
 
 Setting the subjects
