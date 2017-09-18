@@ -1,0 +1,80 @@
+1
+00:00:00,285 --> 00:00:06,859
+<font color="cyan">Singer1: Singing</font>
+
+2
+00:00:01,719 --> 00:00:04,390
+<font color="red">Singer2: Singing</font>
+
+3
+00:00:07,173 --> 00:00:09,075
+<font color="red">Singer2: Singing</font>
+
+4
+00:00:10,176 --> 00:00:13,873
+<font color="cyan">Singer1: Singing</font>
+
+5
+00:00:11,158 --> 00:00:12,891
+<font color="red">Singer2: Singing</font>
+
+6
+00:00:14,771 --> 00:00:16,539
+<font color="red">Singer2: Singing</font>
+
+7
+00:00:17,028 --> 00:00:18,422
+<font color="cyan">Singer1: Singing</font>
+
+8
+00:00:19,539 --> 00:00:20,686
+<font color="red">Singer2: Singing</font>
+
+9
+00:00:19,944 --> 00:00:21,870
+<font color="cyan">Singer1: Singing</font>
+
+10
+00:00:22,038 --> 00:00:23,604
+<font color="red">Singer2: Singing</font>
+
+11
+00:00:24,787 --> 00:00:26,017
+<font color="cyan">Singer1: Singing</font>
+
+12
+00:00:24,787 --> 00:00:26,515
+<font color="red">Singer2: Singing</font>
+
+13
+00:00:27,503 --> 00:00:29,185
+<font color="cyan">Singer1: Singing</font>
+
+14
+00:00:29,507 --> 00:00:30,618
+<font color="red">Singer2: Singing</font>
+
+15
+00:00:31,516 --> 00:00:32,632
+<font color="red">Singer2: Singing</font>
+
+16
+00:00:32,301 --> 00:00:33,451
+<font color="cyan">Singer1: Singing</font>
+
+17
+00:00:33,620 --> 00:00:35,017
+<font color="red">Singer2: Singing</font>
+
+18
+00:00:34,933 --> 00:00:36,364
+<font color="cyan">Singer1: Singing</font>
+
+19
+00:00:36,364 --> 00:00:38,085
+<font color="red">Singer2: Singing</font>
+
+20
+00:00:38,165 --> 00:00:39,818
+<font color="cyan">Singer1: Singing</font>
+
