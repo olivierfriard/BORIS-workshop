@@ -1,0 +1,5 @@
+locomotion|sitting|yawning|sitting|resting su rupe|scratching|sitting|resting su rupe|yawning|resting su rupe|sitting|scratching|sitting|scratching|sitting|yawning|sitting|scratching|sitting|locomotion|out of view
+resting su rupe|sitting|manipulation|feeding|scratching|feeding|scratching|sitting|manipulation|feeding|manipulation|feeding|sitting|yawning|sitting|feeding|scratching|sitting|locomotion|out of view|locomotion|sitting|scratching|sitting|scratching|sitting|scratching|sitting|feeding|locomotion|sitting|feeding|sitting|feeding
+passive grooming|resting|sitting|allert|sitting|displacement|vocalization|locomotion|feeding|scratching|feeding|scratching|feeding|scratching|feeding|locomotion|feeding|vocalization|feeding|locomotion|feeding|locomotion|feeding|locomotion|sitting|resting su rupe|self-grooming
+resting su rupe|resting|scratching|resting|sitting|resting su rupe|sitting|resting su rupe|sitting|resting su rupe|scratching|sitting|resting su rupe|locomotion|out of view
+
