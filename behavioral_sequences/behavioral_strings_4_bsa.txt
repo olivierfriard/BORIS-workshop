@@ -1,5 +1,5 @@
 locomotion|sitting|yawning|sitting|resting|scratching|sitting|resting|yawning|resting|sitting|scratching|sitting|scratching|sitting|yawning|sitting|scratching|sitting|locomotion|out of view
 resting|sitting|manipulation|feeding|scratching|feeding|scratching|sitting|manipulation|feeding|manipulation|feeding|sitting|yawning|sitting|feeding|scratching|sitting|locomotion|out of view|locomotion|sitting|scratching|sitting|scratching|sitting|scratching|sitting|feeding|locomotion|sitting|feeding|sitting|feeding
-passive grooming|resting|sitting|allert|sitting|displacement|vocalization|locomotion|feeding|scratching|feeding|scratching|feeding|scratching|feeding|locomotion|feeding|vocalization|feeding|locomotion|feeding|locomotion|feeding|locomotion|sitting|resting|self-grooming
+passive grooming|resting|sitting|alert|sitting|displacement|vocalization|locomotion|feeding|scratching|feeding|scratching|feeding|scratching|feeding|locomotion|feeding|vocalization|feeding|locomotion|feeding|locomotion|feeding|locomotion|sitting|resting|self-grooming
 resting|resting|scratching|resting|sitting|resting|sitting|resting|sitting|resting|scratching|sitting|resting|locomotion|out of view
 
